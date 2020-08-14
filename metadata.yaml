@@ -1,0 +1,27 @@
+_repo: Hidden-Foes-Or-A-Fatal-Miscalculation_62860
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carter, Nicholas (House name)
+    gutenberg_agent_id: '4161'
+    url: http://www.gutenberg.org/2009/agents/4161
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/43953
+    - http://www.gutenberg.org/ebooks/author/1599
+description: ''
+gutenberg_issued: '2020-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dime novels'
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Fiction'
+- GITenberg
+title: Hidden Foes; Or, A Fatal Miscalculation
+url: http://www.gutenberg.org/ebooks/62860
